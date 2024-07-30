@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiguelEBR
+- 👋 Hi, I’m @Mebberman
 - 👀 I’m interested in animals, nature, gaming and webdev!
 - 🌱 I’m currently learning JavaScript, HTML&CSS, and also french!
 - 😄 Pronouns: He/Him
